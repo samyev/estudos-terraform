@@ -11,3 +11,5 @@ Infraestrura como Código (IaC), é o gerenciamento e provisionamento da infraes
 * [Vídeo de primeiros passos com Terraform com o Caio Delgado](https://www.youtube.com/watch?v=bYvdJKTwx_I&ab_channel=CaioDelgado)
 
 * [O que é infraestrutura como código (IaC)? - RedHat](https://www.redhat.com/pt-br/topics/automation/what-is-infrastructure-as-code-iac)
+
+* [Documentação Terraform](https://www.terraform.io/docs/index.html)
